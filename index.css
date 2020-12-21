@@ -19,7 +19,7 @@
 #check{
     display: inline-block;
 }
-/*Fieldset com borda igual a 0*/
+/*Fieldset com borda igual a 0 */
 fieldset{
     border: 0;
 }
